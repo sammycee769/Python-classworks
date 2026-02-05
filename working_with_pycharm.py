@@ -23,4 +23,4 @@ print(book)
 num = [10,4,3,7,1,9,4,2,8,6]
 def is_odd(x):
     return x%2!=0
-print(list(filter(is_odd,num)))
+print(list(filter(is_odd,num))
